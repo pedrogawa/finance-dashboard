@@ -1,2 +1,3 @@
 # finance-dashboard
-[] - Needs to create collections.
+[x] - Create login page that, using Firebase authentication.
+[ ] - Needs to create collections.
